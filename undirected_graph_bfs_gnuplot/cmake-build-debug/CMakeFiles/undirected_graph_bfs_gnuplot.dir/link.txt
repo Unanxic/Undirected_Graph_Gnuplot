@@ -1,0 +1,3 @@
+"D:\JetBrains\CLion 2022.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\undirected_graph_bfs_gnuplot.dir/objects.a
+"D:\JetBrains\CLion 2022.3.1\bin\mingw\bin\ar.exe" qc CMakeFiles\undirected_graph_bfs_gnuplot.dir/objects.a @CMakeFiles\undirected_graph_bfs_gnuplot.dir\objects1.rsp
+"D:\JetBrains\CLion 2022.3.1\bin\mingw\bin\gcc.exe" -g -Wl,--whole-archive CMakeFiles\undirected_graph_bfs_gnuplot.dir/objects.a -Wl,--no-whole-archive -o undirected_graph_bfs_gnuplot.exe -Wl,--out-implib,libundirected_graph_bfs_gnuplot.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\undirected_graph_bfs_gnuplot.dir\linklibs.rsp
